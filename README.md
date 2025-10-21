@@ -15,7 +15,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/ScreenGammaTuner.git
+https://github.com/Limitinfinitude/Screen-Gamma-Tuner.git
 cd ScreenGammaTuner
 ```
 
